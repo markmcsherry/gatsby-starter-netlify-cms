@@ -1,5 +1,7 @@
 # Gatsby + Netlify CMS Starter
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4f0d7565-2d80-4987-86fd-ff842feb1bee/deploy-status)](https://app.netlify.com/sites/modest-swirles-15c94c/deploys)
+
 **Note:** This starter uses [Gatsby v2](https://www.gatsbyjs.org/blog/2018-09-17-gatsby-v2/).
 
 This repo contains an example business website that is built with [Gatsby](https://www.gatsbyjs.org/), and [Netlify CMS](https://www.netlifycms.org): **[Demo Link](https://gatsby-netlify-cms.netlify.com/)**.
